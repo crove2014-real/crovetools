@@ -12,3 +12,5 @@
 # 直接打开
 打开https://crovetools.pages.dev 直接使用
 
+其实这个项目非常差劲，就是图一乐
+
