@@ -9,4 +9,6 @@
 3.请勿更改html文件的名称，否则可能在部署后无法正常显示
 
 4.cloudflare无法直接上传html文件，请自行创建一个文件夹（名称随意）存放此发布
+# 直接打开
+打开https://crovetools.pages.dev/直接使用
 
